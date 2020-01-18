@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinBottomNavigation</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+
+</resources>
